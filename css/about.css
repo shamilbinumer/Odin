@@ -1,0 +1,121 @@
+/* /////////////////NAVBAR///////////////// */
+.navbar{
+    /* background-color: red; */
+    width: 75%;
+    margin: auto;
+    
+}
+.navbar-brand{
+    font-family: 'Germania One', cursive; 
+    padding-right: 350px;      
+}
+#about{
+    color: black !important;
+}
+.navbar li{
+   margin-right: 10px;
+   width: 100px;
+   font-weight: 500;
+   font-size: 15px;
+}
+.nav-item a{
+    color: rgb(119, 119, 119) !important;
+}
+.nav-item a:hover{
+    /* border-bottom: 1px solid rgb(119, 119, 119); */
+    color: black !important;
+}
+#get-start-btn{
+    background-color: rgb(13, 121, 72) !important;
+    padding-left: 10px !important;
+    color: white !important;
+    padding-left: 20px !important;
+    border-radius: 4px;
+    transition: .3s;
+}
+#get-start-btn:hover{
+    background-color: rgb(11, 97, 58) !important;
+}
+/* //////////MAIN-HEAD///////////// */
+.main-head{
+    text-align: center;
+    padding-top: 30px;
+}
+.main-head p{
+    margin-top: 50px !important;
+    width: 60%;
+    margin: auto;
+    font-size: 17px;
+}
+/* //////////////expect-section////////// */
+.expect-section{
+    /* text-align: center; */
+    padding-top: 40px;
+}
+.expect-section-heading{
+    text-align: center;
+}
+.expect-section h4{
+    color: rgb(69, 69, 69);
+    font-weight: 400 !important;
+}
+.expect-details{
+    width: 60%;
+    margin: auto !important;
+    /* text-align: center; */
+    
+}
+.expect-details{
+    margin-top: 40px !important;
+}
+.expect-details h6{
+    font-size: 19px;
+    color: rgb(69, 69, 69);
+}
+.expect-details p{
+    color: rgb(69, 69, 69);
+    font-size: 17px;
+    padding-top: 10px;
+}
+/* //////////////////OVER-VIWE///////////// */
+.over-viwe{
+    background-color: rgb(248, 248, 248);
+    width: 100%;
+}
+.over-viwe-heading{
+    text-align: center;
+    padding-top: 50px;
+}
+.over-viwe-firstrow-cards{
+    margin-top: 50px !important;
+    /* background-color: red; */
+    height:300px;
+    width:80%; 
+    margin: auto;
+}
+.over-viwe-card{
+    text-align: center;
+    width: 98%;
+    height: 120px;
+    background-color: rgb(255, 255, 255);
+    margin: auto !important;
+    box-shadow: 0px 0px 26px -17px rgba(0,0,0,0.75);
+    padding-top: 25px;
+    border-radius: 8px;
+}
+.over-card-main{
+    width: 85%;
+    margin: auto !important;
+}.over-viwe-card h3{
+    color: rgb(69, 69, 69);
+    font-weight: 700;
+}
+.over-2nd-card{
+    width: 85%;
+    margin: auto !important;
+}
+.origin-card{
+    width: 90%;
+    background-color: red;
+    height: 100px;
+}
